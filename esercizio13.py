@@ -1,0 +1,6 @@
+base=input("inserire una base")
+base=float(base)
+esponente=input("inserire esponente")
+esponente=float(esponente)
+ris=pow(base,esponente)
+print("risultato: "+str(ris))
